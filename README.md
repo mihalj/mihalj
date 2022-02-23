@@ -22,6 +22,8 @@ If it makes more sense, you can also email me:
 **General Inquiries:** 666@reape.rs
 
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<505824713835282442>)
+
 
 
 
