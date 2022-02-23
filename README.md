@@ -11,11 +11,11 @@ https://bolesni.org/ - https://reape.rs/
 
 ## ⚡️ Experience
 
-Server Management - Security - Front-End & Back-End & Teamspeak framework & much more
+Social Media Services - WEB Design - System Administration
 
-## 📫 Contact
+## 💬 Contact
 
-To contact me quickly and easily, use telegram https://t.me/zvijezda
+To contact me quickly and easily, use telegram https://t.me/skank
 
 If it makes more sense, you can also email me:
 
