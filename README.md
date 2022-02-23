@@ -6,7 +6,7 @@
 
 I'm currently working on my own projects :
 
-bolesni.org/ - reape.rs/
+www.bolesni.org - www.reape.rs
 
 
 ## ⚡️ Experience
