@@ -1,10 +1,12 @@
 ## Hello I am mihalj👋
 
-I'm a 22 year old developer.
+22 years old Developer coming from 🇭🇷 Zagreb.
 
 ## 🔭 Current
 
-I'm currently working on my own projects such as www.reape.rs & gamers.com.hr
+I'm currently working on my own projects :
+
+https://bolesni.org/ - https://reape.rs/
 
 
 ## ⚡️ Experience
