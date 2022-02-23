@@ -1,8 +1,8 @@
-## Hello I am mihalj👋
+## About
 
-22 years old Developer coming from 🇭🇷 Zagreb.
+22 // Male // coming from 🇭🇷 (Croatia, Zagreb).
 
-## 🔭 Current
+## 🔭 Current 
 
 I'm currently working on my own projects :
 
