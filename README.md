@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mihalj</h1>
-<h3 align="center">A passionate frontend & backend developer from 🇭🇷</h3>
+### Hi there 👋,  
+#### welcome to my website
+![welcome to my website](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on [bolesni.org](reape.rs)
+22 year old Developer coming from 🇭🇷
 
-- 💬 How to reach me **https://t.me/skank**
+Skills: Web-Design | GFX Services | System Administration | Social Media Management
 
-- 📫 E-mail Contact **666@reape.rs**
+- 🔭 I’m currently working on reape.rs 
+- 📫 How to reach me: 666@reape.rs 
+- 😄 Pronouns: He/Him 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihalj" height="30" width="40" /></a>
-<a href="https://fb.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihalj" height="30" width="40" /></a>
-<a href="https://instagram.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihalj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mihalj1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mihalj1337" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mihalj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mihalj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mihalj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mihalj1337)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/mihalj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/mihalj)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mihalj)  
+
