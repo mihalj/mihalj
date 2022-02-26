@@ -1,30 +1,19 @@
-## About
+<h1 align="center">Hi 👋, I'm Mihalj</h1>
+<h3 align="center">A passionate frontend & backend developer from 🇭🇷</h3>
 
-22 // Male // coming from 🇭🇷 (Croatia, Zagreb).
+- 🔭 I’m currently working on [bolesni.org](reape.rs)
 
-## 🔭 Current 
+- 💬 How to reach me **https://t.me/skank**
 
-I'm currently working on my own projects :
+- 📫 E-mail Contact **666@reape.rs**
 
-www.bolesni.org - www.reape.rs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihalj" height="30" width="40" /></a>
+<a href="https://fb.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihalj" height="30" width="40" /></a>
+<a href="https://instagram.com/mihalj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihalj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mihalj1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mihalj1337" height="30" width="40" /></a>
+</p>
 
-
-## ⚡️ Experience
-
-Social Media Services - WEB Design - System Administration
-
-## 💬 Contact
-
-To contact me quickly and easily, use telegram https://t.me/skank
-
-If it makes more sense, you can also email me:
-
-**General Inquiries:** mihalj@riseup.net
-
-
-
-
-<!---
-mihalj/mihalj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
