@@ -1,6 +1,5 @@
 ### Hi there 👋,  
 #### welcome to my website
-![welcome to my website](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 22 year old Developer coming from 🇭🇷
 
