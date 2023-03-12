@@ -1,12 +1,10 @@
 ### Hi there 👋,  
 #### welcome to my website
 
-22 year old Developer coming from 🇭🇷
+23 year old Developer coming from 🇭🇷
 
-Skills: Web-Design | GFX Services | System Administration | Social Media Management
-
-- 🔭 I’m currently working on reape.rs 
-- 📫 How to reach me: 666@reape.rs 
+Skills: Web-Design | GFX Services | System Administrator
+- 📫 How to reach me: mihalj@riseup.net
 - 😄 Pronouns: He/Him 
 
 
