@@ -1,25 +1,66 @@
-![👋 Hi, my name is Matej](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+<h1 align="center">Hi 👋, I'm Matej</h1>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Matej
-      </h1>
-    </summary>
-  </ul>
+###
+
+<br clear="both">
+
+<h3 align="left">🛠️ About Me</h3>
+
+###
+
+<h6 align="left">💻 Full-stack developer with expertise in both frontend and backend development.<br>🔭 Currently focused on creating Minecraft plugins, Discord bots, and web apps.<br>🌱 Expanding my skills in advanced backend techniques and Firebase.<br>🚀 Enthusiast of open-source projects, optimization, and developer tools.</h6>
+
+###
+
+<h3 align="left">💡 Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.instagram.com/mihalj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mihalj" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@@mihaij" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/mihalj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+###
 
- **<h3 align="center">💻 Full-stack developer with expertise in both frontend and backend development.
-</h3>**
+<h3 align="left">📬 Connect with Me</h3>
 
- **<h3 align="left">Skills</h3>**
+###
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/php/787CB5" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="28" alt="Vue" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="Tailwind" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/sqlite/003B57" height="28" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="Docker" style="margin-right: 4px"></div>
+<div align="left">
+  <a href="https://hr.linkedin.com/in/mihalj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/696471986137858069" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@mihaij" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://instagr.am/mihalj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/mih4lj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://x.com/mihalj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+  </a>
+</div>
 
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://paypal.me/bolesni@riseup.net" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+###
